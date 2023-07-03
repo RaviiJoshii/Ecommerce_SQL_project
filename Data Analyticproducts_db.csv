@@ -1,0 +1,11 @@
+product_id,name,category,price
+1,Shirt,Apparel,20.99
+2,Jeans,Apparel,39.99
+3,Shoes,Footwear,59.99
+4,Phone,Electronics,599.99
+5,Headphones,Electronics,99.99
+6,Earphones,Electronics,79.99
+7,Smart Watch,Electronics,129.99
+9,Chair,Furniture,599.99
+10,Sofa,Furniture,899.99
+8,Laptops,Electronics,629.99
